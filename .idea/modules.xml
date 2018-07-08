@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CoreJava/CoreJava.iml" filepath="$PROJECT_DIR$/../CoreJava/CoreJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DesignPatterns/DesignPatterns.iml" filepath="$PROJECT_DIR$/../DesignPatterns/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EffectiveJava/EffectiveJava.iml" filepath="$PROJECT_DIR$/EffectiveJava/EffectiveJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThread.iml" filepath="$PROJECT_DIR$/MultiThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpringInAction/SpringInAction.iml" filepath="$PROJECT_DIR$/../SpringInAction/SpringInAction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../UdemyJava/UdemyJava.iml" filepath="$PROJECT_DIR$/../UdemyJava/UdemyJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../doubanAutoComment/doubanAutoComment.iml" filepath="$PROJECT_DIR$/../doubanAutoComment/doubanAutoComment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interview/interview.iml" filepath="$PROJECT_DIR$/interview/interview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rocketmq/rocketmq.iml" filepath="$PROJECT_DIR$/../rocketmq/rocketmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wastedArchive/wastedArchive.iml" filepath="$PROJECT_DIR$/../wastedArchive/wastedArchive.iml" />
+    </modules>
+  </component>
+</project>
